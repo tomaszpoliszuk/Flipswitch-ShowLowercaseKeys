@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.flipswitchshowlowercasekeys
+Depends: firmware (>= 9.0), mobilesubstrate, com.a3tweaks.flipswitch
+Name: Flipswitch - Show Lowercase Keys
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch toggle for Show Lowercase Keys
+Author: Tomasz Poliszuk
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
